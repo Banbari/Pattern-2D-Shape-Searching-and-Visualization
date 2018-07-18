@@ -4,6 +4,7 @@ In this project, we have a huge file which contains the co-ordinates of componen
 ## Input : 
 **1.** Data file which contains the information of Hardware chip(all the co-ordinates of all the components).
 **2.** Sample file which co-ordinates of single or multiple components.
-## Output : Return a file which will contains all the co-ordinates of defective components.
+## Output : 
+Return a file which will contains all the co-ordinates of defective components.
 
 ## _Note: In the data file all the components which are defective could be in other form also like, rotated by some angle or sharing the edge with other components._
