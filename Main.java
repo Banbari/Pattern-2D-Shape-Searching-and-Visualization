@@ -58,7 +58,6 @@ import java.util.*;
         }
         fw.close();
         fr.close();
-        
         /*System.out.println("Hello "+ar.size());
         for(int i=0;i<ar.size();i++)
         {
@@ -68,7 +67,6 @@ import java.util.*;
         fw=new FileWriter("output.txt");
         br=new BufferedReader(fr);
         ArrayList<ArrayList<Integer>> fileData=null;
-        //TreeMap<Integer,ArrayList<ArrayList<Integer>>> tm=new TreeMap<>();
         for(int i=0;i<6;i++)
             br.readLine();
         while((s=br.readLine())!=null)
